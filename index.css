@@ -32,18 +32,19 @@ body {
 
 .heading {
   color: hsl(218, 44%, 22%);
+  font-size: 1.5em;
 }
 
 .description {
   color: hsl(220, 15%, 55%);
-  font-size: 15px;
+  font-size: 0.96em;
   margin: 0;
   padding: 0px 25px 25px;
 }
 
 .attribution {
   margin: 20px;
-  font-size: 11px;
+  font-size: 0.7em;
   text-align: center;
 }
 
