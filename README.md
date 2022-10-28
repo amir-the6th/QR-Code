@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![desktop screenshot](./images/screenshot-desktop.png)
 
 #### Mobile
-![desktop screenshot](./images/screenshot-mobile.png =500x)
+![desktop screenshot](./images/screenshot-mobile.png=500x)
 
 ### Links
 
