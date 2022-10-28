@@ -53,4 +53,4 @@ The major accomplishment of this prject was learning more about the power of fle
 
 ## Acknowledgments
 
-I want to give a shout-out to the [Scrimba](https://scrimba.com) CEO and professor, [Per Harald Borgen](https://twitter.com/perborgen). I recently finished the [HTML and CSS course](https://scrimba.com/learn/htmlandcss) on Scrimba and the things I learned there enabled me to finish this challenge in less than 30 minutes.
+I want to give a shout-out to the [Scrimba](https://scrimba.com) CEO and professor, Per Harald Borgen(@perborgen). I recently finished the [HTML and CSS course](https://scrimba.com/learn/htmlandcss) on Scrimba and the things I learned there enabled me to finish this challenge in less than 30 minutes.
