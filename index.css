@@ -4,9 +4,7 @@ body {
   margin: 0;
   background-color: hsl(212, 45%, 89%);
   font-family: "Outfit", sans-serif;
-}
 
-.wrapper {
   display: flex;
   flex-direction: column;
   justify-content: center;
